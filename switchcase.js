@@ -1,5 +1,5 @@
 const sortear=() => { 
-    let nomes = ["ROBESVALDO 👍","PINK FLOID🎸","MACARENA💃🏻","MICHAEL JACKSON🕴","WINKS 🧚‍♀️","PATRULHA CANINA 🐶","BARBIE👸","KEN 👱🏻‍♂️","MONSTER HIGH 🧟‍♀️"]
+    let nomes = ["ROBESVALDO 👍","PINK FLOID🎸","MACARENA💃🏻","MICHAEL JACKSON🕴","WINKS 🧚‍♀️","PATRULHA CANINA 🐶","BARBIE👸","KEN 👱🏻‍♂️","MONSTER HIGH 🧟‍♀️"];
     
     let h1Nome = document.getElementById("nome");
     
